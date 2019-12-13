@@ -1,0 +1,59 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.custom-heading1{
+    margin: 3rem;
+}
+
+.title-img{
+    border-radius: 2em;
+    padding: 30px;
+    height: 100%;
+    width: 100%;
+}
+
+.custom-row{
+    background-color: #eee;
+    width: 101%;
+}
+
+.custom-p{
+    margin: 3em;
+}
+
+.custom-btn{
+    margin-left: 3rem;
+    padding: 0px;
+}
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.custom-p-features{
+    color: #6c757d;
+}
+
+.icon:hover{
+    color: #eee;
+}
+
+#features{
+    padding: 7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+.custom-section{
+    padding-top: 3%;
+    height: 50%;
+    padding: 0px 10px 10px;
+    height: 100%;
+    width: 100%;
+}
